@@ -10,7 +10,7 @@ export const profile = {
     'automations with n8n, Make.com, monday.com and ClickUp. I use AI-assisted development ' +
     'to deliver faster and pick up new stacks quickly.',
   email: 'rehman786655@gmail.com',
-  linkedin: 'https://linkedin.com/in/rehmanashraf20',
+  linkedin: 'https://www.linkedin.com/in/rehman-ashraf20',
   github: 'https://github.com/RehmanAshraf20',
 }
 

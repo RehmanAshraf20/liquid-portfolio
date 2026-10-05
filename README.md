@@ -57,5 +57,5 @@ src/
 ## Contact
 
 - Email: rehman786655@gmail.com
-- LinkedIn: [linkedin.com/in/rehmanashraf20](https://linkedin.com/in/rehmanashraf20)
+- LinkedIn: [linkedin.com/in/rehman-ashraf20](https://www.linkedin.com/in/rehman-ashraf20)
 - GitHub: [github.com/RehmanAshraf20](https://github.com/RehmanAshraf20)
