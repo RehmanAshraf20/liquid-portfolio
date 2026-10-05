@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --color-accent: #5fd0e6;
+  --color-night: #060a16;
+}
+
+html {
+  color-scheme: dark;
+  scroll-behavior: smooth;
+  background: var(--color-night);
+}
+
+:root {
+  /* Left/right page gutter. Card rows bleed past it to the right edge. */
+  --gutter: clamp(1rem, 14vw, 17rem);
+}
+
+/* 14vw eats too much of a phone screen. */
+@media (max-width: 640px) {
+  :root {
+    --gutter: 1.25rem;
+  }
+}
